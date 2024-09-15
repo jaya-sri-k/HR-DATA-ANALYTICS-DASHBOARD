@@ -10,15 +10,12 @@
 ### PROJECT OVERVIEW :
 #### Developed an HR analytics dashboard in Power BI, integrating data for 161 professions, including salary, joining dates, and department info. Created interactive visuals for leave balance analysis and top performer identification, offering valuable insights to enhance HR management and decision-making.
 ### DESCRIPTION :
-#### • Conducted analysis on data from 2,000+ drivers to evaluate performance and operational metrics.
-#### • Analyzed 900+ completed trips to identify patterns and optimize route efficiency.
-#### • Assessed driver earnings and geographic data to enhance revenue and service coverage.
-#### • Provided actionable insights and strategic recommendations to improve driver management and user experience.
+#### • Developed and implemented an HR data analytics dashboard in Power BI, integrating data for 161 professions, including salary details, date of joining, and department information.
+#### • Utilized Power BI to develop interactive dashboards showcasing leave balance analysis,top performers etc..
 ### TECHNICAL SKILLS:
 #### • Data was cleaned where missing values and null values were removed.
-#### • Top rated driver  and other key performance indicators such conversion rate, performance of drivers peak hours were calculated.
-#### •Windows functions, Subqueries, Aggregate functions were used to calculate average salary,driver earnings and several other factors.
-#### • Gained hands on knowledge on PowerBI involving preparing interactive dashboard.
+#### • Top rperformer in each department and other key performance indicators were calculated.
+#### • Several other factors such as top earners,top performers,leave balance analysis were identified.
 ### RESULTS :
-#### • Provided actionable insights and strategic recommendations to improve driver management and user experience.
-#### • Assessed driver earnings and geographic data to enhance revenue and service coverage.
+#### • Provided actionable insights and strategic recommendations to improve workforce planning.
+#### • This dashboard uses all key metrics that are used to find about an employee including their date of joining, salary etc.
